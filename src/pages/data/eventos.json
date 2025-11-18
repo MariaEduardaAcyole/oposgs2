@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "titulo": "Imersão React Avançado",
+    "data": "2025-04-10",
+    "tag": "React",
+    "imagem": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  },
+  {
+    "id": 2,
+    "titulo": "Conferência de IA e Futuro do Trabalho",
+    "data": "2025-06-01",
+    "tag": "IA",
+    "imagem": "https://images.unsplash.com/photo-1555255707-c07966088b7b"
+  },
+  {
+    "id": 3,
+    "titulo": "Meetup UX Design Experience",
+    "data": "2025-03-22",
+    "tag": "UX",
+    "imagem": "https://images.unsplash.com/photo-1556761175-b413da4baf72"
+  }
+  ,
+  {
+    "id": 4,
+    "titulo": "Summit de Cloud Computing AWS",
+    "data": "2025-05-12",
+    "tag": "Cloud",
+    "imagem": "https://images.unsplash.com/photo-1498050108023-c5249f4df085"
+  },
+  {
+    "id": 6,
+    "titulo": "Encontro de Profissionais de Segurança Cibernética",
+    "data": "2025-07-02",
+    "tag": "Cybersecurity",
+    "imagem": "https://images.unsplash.com/photo-1556155092-8707de31f9c4"
+  },
+  {
+    "id": 7,
+    "titulo": "Imersão em Inteligência Artificial Generativa",
+    "data": "2025-09-15",
+    "tag": "IA",
+    "imagem": "https://images.unsplash.com/photo-1508385082359-f35b74a39d34"
+  },
+  {
+    "id": 8,
+    "titulo": "Bootcamp de Desenvolvimento Full Stack",
+    "data": "2025-06-20",
+    "tag": "Desenvolvimento",
+    "imagem": "https://images.unsplash.com/photo-1521791136064-7986c2920216"
+  },
+  {
+    "id": 9,
+    "titulo": "Conferência Internacional de Inovação e Tech",
+    "data": "2025-10-05",
+    "tag": "Tecnologia",
+    "imagem": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+  },
+  {
+    "id": 10,
+    "titulo": "Treinamento de Machine Learning Prático",
+    "data": "2025-08-01",
+    "tag": "Machine Learning",
+    "imagem": "https://images.unsplash.com/photo-1555949963-aa79dcee981c"
+  },
+  {
+    "id": 11,
+    "titulo": "Meetup de Product Management",
+    "data": "2025-03-19",
+    "tag": "Produto",
+    "imagem": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  },
+  {
+    "id": 12,
+    "titulo": "Fórum de Desenvolvimento Mobile",
+    "data": "2025-04-09",
+    "tag": "Mobile",
+    "imagem": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+  },
+  {
+    "id": 13,
+    "titulo": "Tech Talks: Arquitetura de Sistemas",
+    "data": "2025-06-28",
+    "tag": "Arquitetura",
+    "imagem": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+  },
+  {
+    "id": 14,
+    "titulo": "Maratona de Desenvolvimento Vue & React",
+    "data": "2025-08-11",
+    "tag": "Frontend",
+    "imagem": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+  },
+  {
+    "id": 15,
+    "titulo": "Evento de Carreiras para Profissionais Tech",
+    "data": "2025-07-29",
+    "tag": "Carreira",
+    "imagem": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 16,
+    "titulo": "Jornada de Testes Automatizados",
+    "data": "2025-05-04",
+    "tag": "QA",
+    "imagem": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4"
+  },
+  {
+    "id": 17,
+    "titulo": "Conferência sobre Profissões do Futuro",
+    "data": "2025-09-03",
+    "tag": "Futuro",
+    "imagem": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  },
+  {
+    "id": 18,
+    "titulo": "Workshop de Desenvolvimento de APIs",
+    "data": "2025-04-15",
+    "tag": "Backend",
+    "imagem": "https://images.unsplash.com/photo-1556157382-97eda2d62296"
+  },
+  {
+    "id": 19,
+    "titulo": "Semana da Inovação e Criatividade",
+    "data": "2025-10-29",
+    "tag": "Inovação",
+    "imagem": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+  },
+  {
+    "id": 20,
+    "titulo": "Palestra: Startups e Empreendedorismo",
+    "data": "2025-06-14",
+    "tag": "Startups",
+    "imagem": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+  },
+  {
+    "id": 21,
+    "titulo": "Encontro de UI Motion e Animação",
+    "data": "2025-07-09",
+    "tag": "UI",
+    "imagem": "https://images.unsplash.com/photo-1553882808-93fcf75df1bc"
+  },
+  {
+    "id": 22,
+    "titulo": "Tech Hackathon Brasil 2025",
+    "data": "2025-11-17",
+    "tag": "Hackathon",
+    "imagem": "https://images.unsplash.com/photo-1516110833967-5787ba1b71e6"
+  },
+  {
+    "id": 23,
+    "titulo": "Intensivo de Banco de Dados SQL e NoSQL",
+    "data": "2025-05-27",
+    "tag": "Banco de Dados",
+    "imagem": "https://images.unsplash.com/photo-1556157382-97eda2d62296"
+  }
+
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "titulo": "Desenvolvedor Front-end React",
+    "empresa": "TechWave",
+    "localizacao": "São Paulo, SP",
+    "tipo": "Remoto",
+    "nivel": "Júnior",
+    "area": "Desenvolvimento",
+    "descricao": "Atuar com React, Tailwind e APIs REST.",
+    "tags": ["React", "JavaScript", "Frontend"],
+    "recomendado": true
+  },
+  {
+    "id": 2,
+    "titulo": "UX/UI Designer",
+    "empresa": "DesignLab",
+    "localizacao": "Rio de Janeiro, RJ",
+    "tipo": "Presencial",
+    "nivel": "Pleno",
+    "area": "Design",
+    "descricao": "Criar interfaces modernas e intuitivas.",
+    "tags": ["Figma", "UI", "UX"],
+    "recomendado": true
+  },
+  {
+    "id": 3,
+    "titulo": "Analista de Dados",
+    "empresa": "DataCorp",
+    "localizacao": "Curitiba, PR",
+    "tipo": "Híbrido",
+    "nivel": "Pleno",
+    "area": "Dados",
+    "descricao": "Power BI, SQL e Python.",
+    "tags": ["SQL", "Python", "BI"],
+    "recomendado": false
+  },
+  {
+    "id": 4,
+    "titulo": "Desenvolvedor Backend Node.js",
+    "empresa": "SkyApps",
+    "localizacao": "Fortaleza, CE",
+    "tipo": "Remoto",
+    "nivel": "Sênior",
+    "area": "Desenvolvimento",
+    "descricao": "Criação de microsserviços em Node.js.",
+    "tags": ["Node.js", "API", "Backend"],
+    "recomendado": true
+  },
+  {
+    "id": 5,
+    "titulo": "Assistente Administrativo",
+    "empresa": "Prime Solutions",
+    "localizacao": "Porto Alegre, RS",
+    "tipo": "Presencial",
+    "nivel": "Júnior",
+    "area": "Administração",
+    "descricao": "Atendimento e controle financeiro.",
+    "tags": ["Organização", "Excel"],
+    "recomendado": false
+  }
+  ,
+  {
+    "id": 6,
+    "titulo": "DevOps Engineer",
+    "empresa": "CloudBridge",
+    "localizacao": "São Paulo, SP",
+    "tipo": "Híbrido",
+    "nivel": "Pleno",
+    "area": "Infraestrutura",
+    "descricao": "Automação CI/CD, Docker, Kubernetes, AWS.",
+    "tags": ["DevOps", "AWS", "Docker"],
+    "recomendado": false
+  },
+  {
+    "id": 7,
+    "titulo": "Engenheiro de Software Backend",
+    "empresa": "NextLevel Labs",
+    "localizacao": "Remoto",
+    "tipo": "Remoto",
+    "nivel": "Sênior",
+    "area": "Desenvolvimento",
+    "descricao": "Node.js, PostgreSQL, microsserviços.",
+    "tags": ["Node.js", "SQL", "Microservices"],
+    "recomendado": true
+  },
+  {
+    "id": 8,
+    "titulo": "Product Owner",
+    "empresa": "InnovateX",
+    "localizacao": "Belo Horizonte, MG",
+    "tipo": "Presencial",
+    "nivel": "Pleno",
+    "area": "Produto",
+    "descricao": "Gestão de backlog, discovery, métricas.",
+    "tags": ["Produto", "Scrum"],
+    "recomendado": false
+  },
+  {
+    "id": 9,
+    "titulo": "Desenvolvedor Mobile Flutter",
+    "empresa": "AppNation",
+    "localizacao": "Recife, PE",
+    "tipo": "Remoto",
+    "nivel": "Júnior",
+    "area": "Desenvolvimento",
+    "descricao": "Criação de apps Android/iOS.",
+    "tags": ["Flutter", "Dart"],
+    "recomendado": false
+  },
+  {
+    "id": 10,
+    "titulo": "Analista de Marketing Digital",
+    "empresa": "BoostMedia",
+    "localizacao": "Curitiba, PR",
+    "tipo": "Presencial",
+    "nivel": "Pleno",
+    "area": "Marketing",
+    "descricao": "Social ads, analytics, SEO.",
+    "tags": ["SEO", "Analytics"],
+    "recomendado": false
+  }
+]
+

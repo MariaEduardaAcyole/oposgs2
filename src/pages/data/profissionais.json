@@ -1,0 +1,2401 @@
+[
+  {
+    "id": 1,
+    "nome": "Lucas Ferreira",
+    "foto": "https://randomuser.me/api/portraits/men/11.jpg",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Especialista em React e interfaces modernas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
+    "softSkills": ["Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "Webify",
+        "cargo": "Estagiário Front-End",
+        "inicio": "2022-01",
+        "fim": "2023-12",
+        "descricao": "Desenvolvimento de interfaces web e manutenção de componentes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia em Sistemas para Internet",
+        "instituicao": "FATEC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Landing Page Moderna",
+        "link": "https://github.com/lucasf/landing",
+        "descricao": "Criação de landing page otimizada com React e animações."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["UX/UI", "Desenvolvimento Front-End"]
+  },
+
+  {
+    "id": 2,
+    "nome": "Mariana Souza",
+    "foto": "https://randomuser.me/api/portraits/women/22.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Transformando dados em decisões estratégicas.",
+    "localizacao": "Campinas/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "PowerBI", "Pandas"],
+    "softSkills": ["Pensamento crítico", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "DataCorp",
+        "cargo": "Analista Júnior",
+        "inicio": "2021-03",
+        "fim": "2024-01",
+        "descricao": "Análise e modelagem de dados para dashboards executivos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Financeiro",
+        "link": "https://github.com/maris/data-dashboard",
+        "descricao": "Painel completo com indicadores financeiros e projeções."
+      }
+    ],
+    "certificacoes": ["Power BI Analyst"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Machine Learning", "Big Data"]
+  },
+
+  {
+    "id": 3,
+    "nome": "Rafael Silva",
+    "foto": "https://randomuser.me/api/portraits/men/31.jpg",
+    "cargo": "Designer UI/UX",
+    "resumo": "Criando experiências digitais intuitivas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "Prototipagem"],
+    "softSkills": ["Criatividade", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "PixelLab",
+        "cargo": "UI Designer",
+        "inicio": "2020-02",
+        "fim": "2023-10",
+        "descricao": "Criação de interfaces mobile e web para produtos digitais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "ESPM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://github.com/rafael/ui-delivery",
+        "descricao": "Protótipo completo de app com fluxo otimizado."
+      }
+    ],
+    "certificacoes": ["UX-PM 1"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Design System", "Acessibilidade"]
+  },
+
+  {
+    "id": 4,
+    "nome": "Ana Clara Mota",
+    "foto": "https://randomuser.me/api/portraits/women/55.jpg",
+    "cargo": "Desenvolvedora Back-End",
+    "resumo": "Focada em APIs escaláveis e segurança.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Express", "MongoDB"],
+    "softSkills": ["Liderança", "Gestão de tempo"],
+    "experiencias": [
+      {
+        "empresa": "CodeHub",
+        "cargo": "Back-End JR",
+        "inicio": "2021-01",
+        "fim": "2024-01",
+        "descricao": "Desenvolvimento de APIs REST e automação de processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UPE",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Financeira",
+        "link": "https://github.com/ana/api-finance",
+        "descricao": "API para controle financeiro com autenticação JWT."
+      }
+    ],
+    "certificacoes": ["Linux Essentials"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Segurança", "DevOps"]
+  },
+
+  {
+    "id": 5,
+    "nome": "Gustavo Andrade",
+    "foto": "https://randomuser.me/api/portraits/men/28.jpg",
+    "cargo": "Engenheiro de DevOps",
+    "resumo": "Apaixonado por automação e infraestrutura em nuvem.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Docker", "Kubernetes", "Terraform"],
+    "softSkills": ["Proatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "CloudBR",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-05",
+        "fim": "2024-02",
+        "descricao": "Automação CI/CD e gestão de infraestrutura escalável."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline CI/CD",
+        "link": "https://github.com/gus/devops-pipeline",
+        "descricao": "Pipeline completo usando GitHub Actions e Docker."
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Infraestrutura", "Cloud Computing"]
+  },
+    {
+    "id": 6,
+    "nome": "Beatriz Almeida",
+    "foto": "https://randomuser.me/api/portraits/women/60.jpg",
+    "cargo": "Especialista em Marketing Digital",
+    "resumo": "Focada em estratégias de tráfego e growth.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "Meta Ads", "SEO", "Analytics"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Agência Fluxo",
+        "cargo": "Analista de Marketing",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Gestão de campanhas de tráfego e análise de KPI."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "Mackenzie",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estratégia de Lançamento",
+        "link": "https://github.com/bea/launch",
+        "descricao": "Planejamento completo de funil e campanhas."
+      }
+    ],
+    "certificacoes": ["Google Analytics Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Growth Marketing", "Neuromarketing"]
+  },
+
+  {
+    "id": 7,
+    "nome": "Paulo Henrique",
+    "foto": "https://randomuser.me/api/portraits/men/76.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor full-stack focado em performance.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "React", "PostgreSQL", "Docker"],
+    "softSkills": ["Proatividade", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "TechFusion",
+        "cargo": "Full-Stack",
+        "inicio": "2020-01",
+        "fim": "2023-12",
+        "descricao": "Desenvolvimento de aplicações completas e APIs robustas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Computação",
+        "instituicao": "CEFET-MG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/paulo/gestao",
+        "descricao": "Sistema completo para controle empresarial."
+      }
+    ],
+    "certificacoes": ["AWS Practitioner"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Arquitetura de Software", "APIs"]
+  },
+
+  {
+    "id": 8,
+    "nome": "Isabela Costa",
+    "foto": "https://randomuser.me/api/portraits/women/70.jpg",
+    "cargo": "Psicóloga Organizacional",
+    "resumo": "Atuando com desenvolvimento humano e cultura.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Avaliação comportamental", "Dinâmicas", "PDI"],
+    "softSkills": ["Empatia", "Escuta ativa"],
+    "experiencias": [
+      {
+        "empresa": "Grupo Harmonia",
+        "cargo": "Psicóloga",
+        "inicio": "2021-04",
+        "fim": "2024-02",
+        "descricao": "Desenvolvimento de programas de liderança e clima."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Clima Organizacional",
+        "link": "https://github.com/isabela/clima",
+        "descricao": "Metodologia aplicada a colaboradores de grandes empresas."
+      }
+    ],
+    "certificacoes": ["DISC Analyst"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Gestão de Pessoas", "Cultura Organizacional"]
+  },
+
+  {
+    "id": 9,
+    "nome": "Thiago Ramos",
+    "foto": "https://randomuser.me/api/portraits/men/41.jpg",
+    "cargo": "Médico Clínico Geral",
+    "resumo": "Atendimento humanizado e medicina preventiva.",
+    "localizacao": "Curitiba/PR",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Prontuário eletrônico", "Telemedicina"],
+    "softSkills": ["Empatia", "Tomada de decisão"],
+    "experiencias": [
+      {
+        "empresa": "HospVida",
+        "cargo": "Clínico Geral",
+        "inicio": "2019-02",
+        "fim": "2024-02",
+        "descricao": "Atendimento em PS e consultório geral."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "PUC-PR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Cartilha de Saúde Preventiva",
+        "link": "https://github.com/thiago/saude",
+        "descricao": "Guia digital para prevenção de doenças."
+      }
+    ],
+    "certificacoes": ["Atualização em Telemedicina"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Medicina Preventiva", "Tecnologia em Saúde"]
+  },
+
+  {
+    "id": 10,
+    "nome": "Gabriela Torres",
+    "foto": "https://randomuser.me/api/portraits/women/33.jpg",
+    "cargo": "Arquiteta",
+    "resumo": "Projetando ambientes funcionais e esteticamente equilibrados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["AutoCAD", "SketchUp", "V-Ray"],
+    "softSkills": ["Criatividade", "Atendimento ao cliente"],
+    "experiencias": [
+      {
+        "empresa": "Studio Espaço",
+        "cargo": "Arquiteta JR",
+        "inicio": "2020-06",
+        "fim": "2024-01",
+        "descricao": "Projetos residenciais e comerciais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Arquitetura e Urbanismo",
+        "instituicao": "FAU-USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Apartamento Minimalista",
+        "link": "https://github.com/gabriela/apto",
+        "descricao": "Projeto completo de interiores."
+      }
+    ],
+    "certificacoes": ["Design de Interiores"],
+    "idiomas": [
+      { "idioma": "Italiano", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Interiores", "Sustentabilidade"]
+  },
+
+  {
+    "id": 11,
+    "nome": "Rodrigo Oliveira",
+    "foto": "https://randomuser.me/api/portraits/men/42.jpg",
+    "cargo": "Professor de Matemática",
+    "resumo": "Ensino prático e focado em raciocínio lógico.",
+    "localizacao": "Goiânia/GO",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Didática", "Ensino Médio", "Análise de dados educacionais"],
+    "softSkills": ["Didática", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "Colégio Evoluir",
+        "cargo": "Professor",
+        "inicio": "2018-02",
+        "fim": "2024-02",
+        "descricao": "Aulas práticas e preparatórias para vestibulares."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Matemática",
+        "instituicao": "UFG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Exercícios",
+        "link": "https://github.com/rod/math",
+        "descricao": "Lista interativa de exercícios de matemática."
+      }
+    ],
+    "certificacoes": ["Metodologias Ativas"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Educação Digital", "Gamificação"]
+  },
+
+  {
+    "id": 12,
+    "nome": "Carla Menezes",
+    "foto": "https://randomuser.me/api/portraits/women/46.jpg",
+    "cargo": "Enfermeira",
+    "resumo": "Atendimento humanizado e cuidado integral.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Cuidados clínicos", "Gestão de prontuários"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Hospital VidaBem",
+        "cargo": "Enfermeira",
+        "inicio": "2020-05",
+        "fim": "2024-01",
+        "descricao": "Atendimento hospitalar e cuidados gerais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "UFBA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de Cuidados",
+        "link": "https://github.com/carla/cuidados",
+        "descricao": "Manual digital de boas práticas."
+      }
+    ],
+    "certificacoes": ["ACLS"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Saúde Pública", "Humanização"]
+  },
+
+  {
+    "id": 13,
+    "nome": "Diego Barros",
+    "foto": "https://randomuser.me/api/portraits/men/84.jpg",
+    "cargo": "Analista de Suporte",
+    "resumo": "Experiência em suporte técnico e atendimento ao cliente.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["Windows Server", "Redes", "Help Desk"],
+    "softSkills": ["Paciência", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "TechWorks",
+        "cargo": "Suporte N1",
+        "inicio": "2021-06",
+        "fim": "2024-01",
+        "descricao": "Atendimento e resolução de problemas técnicos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "FATEC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de Suporte",
+        "link": "https://github.com/diego/suporte",
+        "descricao": "Compilado de boas práticas e atendimentos."
+      }
+    ],
+    "certificacoes": ["ITIL Foundation"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Infraestrutura", "Atendimento técnico"]
+  },
+
+  {
+    "id": 14,
+    "nome": "Aline Barcellos",
+    "foto": "https://randomuser.me/api/portraits/women/88.jpg",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Atuação com metodologias ágeis e gestão de equipes.",
+    "localizacao": "Brasília/DF",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Jira"],
+    "softSkills": ["Liderança", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "AgileCorp",
+        "cargo": "GP",
+        "inicio": "2019-03",
+        "fim": "2024-02",
+        "descricao": "Gestão de times e entrega de projetos ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UNB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Transformação Ágil",
+        "link": "https://github.com/aline/agile",
+        "descricao": "Implementação de mindset ágil em empresas."
+      }
+    ],
+    "certificacoes": ["PMP"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Liderança", "PMO"]
+  },
+
+  {
+    "id": 15,
+    "nome": "Ricardo Gomes",
+    "foto": "https://randomuser.me/api/portraits/men/18.jpg",
+    "cargo": "Engenheiro Civil",
+    "resumo": "Experiência em obras residenciais e comerciais.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Construção",
+    "habilidadesTecnicas": ["Autocad", "Cálculo estrutural"],
+    "softSkills": ["Planejamento", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Construtora Sol",
+        "cargo": "Engenheiro de Obras",
+        "inicio": "2020-01",
+        "fim": "2024-02",
+        "descricao": "Fiscalização e execução de obras."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Civil",
+        "instituicao": "UFC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Residencial Aurora",
+        "link": "https://github.com/ricardo/obra",
+        "descricao": "Execução de projeto completo."
+      }
+    ],
+    "certificacoes": ["NR-35"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Infraestrutura", "Sustentabilidade"]
+  },
+
+  {
+    "id": 16,
+    "nome": "Juliana Martins",
+    "foto": "https://randomuser.me/api/portraits/women/57.jpg",
+    "cargo": "Advogada Trabalhista",
+    "resumo": "Atuação em processos trabalhistas individuais e coletivos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Direito",
+    "habilidadesTecnicas": ["Processo Civil", "CLT"],
+    "softSkills": ["Comunicação", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "M&M Advogados",
+        "cargo": "Advogada",
+        "inicio": "2019-01",
+        "fim": "2024-02",
+        "descricao": "Atuação em reclamatórias e defesas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Direito",
+        "instituicao": "PUC-SP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia Trabalhista",
+        "link": "https://github.com/juliana/guia",
+        "descricao": "Produção de materiais explicativos."
+      }
+    ],
+    "certificacoes": ["OAB"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Compliance", "Gestão Jurídica"]
+  },
+
+  {
+    "id": 17,
+    "nome": "Vinícius Rocha",
+    "foto": "https://randomuser.me/api/portraits/men/35.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Modelagem estatística e machine learning aplicado.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Machine Learning", "SQL", "TensorFlow"],
+    "softSkills": ["Pensamento analítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DataLab",
+        "cargo": "Cientista de Dados JR",
+        "inicio": "2021-03",
+        "fim": "2024-01",
+        "descricao": "Criação de modelos preditivos e análises exploratórias."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Classificação",
+        "link": "https://github.com/vini/classificador",
+        "descricao": "Projeto de ML para classificação de clientes."
+      }
+    ],
+    "certificacoes": ["TensorFlow Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Deep Learning", "Big Data"]
+  },
+
+  {
+    "id": 18,
+    "nome": "Camila Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/14.jpg",
+    "cargo": "Assistente Administrativa",
+    "resumo": "Organização e suporte para processos internos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Administração",
+    "habilidadesTecnicas": ["Pacote Office", "ERP"],
+    "softSkills": ["Organização", "Pontualidade"],
+    "experiencias": [
+      {
+        "empresa": "OfficePlus",
+        "cargo": "Assistente",
+        "inicio": "2020-11",
+        "fim": "2024-01",
+        "descricao": "Organização de documentos e apoio operacional."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "Anhanguera",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Arquivos",
+        "link": "https://github.com/camila/arquivos",
+        "descricao": "Organização digital de processos internos."
+      }
+    ],
+    "certificacoes": ["Excel Avançado"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Organização", "ERP"]
+  },
+    {
+    "id": 19,
+    "nome": "Fernando Lima",
+    "foto": "https://randomuser.me/api/portraits/men/83.jpg",
+    "cargo": "Administrador",
+    "resumo": "Focado em organização empresarial e processos internos.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Administração",
+    "habilidadesTecnicas": ["ERP", "Excel Avançado", "Gestão de Processos"],
+    "softSkills": ["Liderança", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Grupo Allen",
+        "cargo": "Administrador",
+        "inicio": "2019-03",
+        "fim": "2024-01",
+        "descricao": "Gestão operacional e otimização de processos internos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "PUC-RS",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Fluxo Administrativo",
+        "link": "https://github.com/fernando/fluxo",
+        "descricao": "Automação de processos internos utilizando Excel e ERP."
+      }
+    ],
+    "certificacoes": ["Excel Professional"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Gestão", "Produtividade"]
+  },
+
+  {
+    "id": 20,
+    "nome": "Letícia Duarte",
+    "foto": "https://randomuser.me/api/portraits/women/21.jpg",
+    "cargo": "Desenvolvedora Mobile",
+    "resumo": "Especialista em apps Android e iOS.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Flutter", "Dart", "Kotlin", "Firebase"],
+    "softSkills": ["Criatividade", "Pensamento analítico"],
+    "experiencias": [
+      {
+        "empresa": "AppX",
+        "cargo": "Mobile Developer",
+        "inicio": "2021-01",
+        "fim": "2024-02",
+        "descricao": "Desenvolvimento de aplicativos híbridos e nativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Fitness",
+        "link": "https://github.com/leticia/fitness",
+        "descricao": "Aplicativo mobile para treinos personalizados."
+      }
+    ],
+    "certificacoes": ["Flutter Developer"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Mobile", "UI/UX"]
+  },
+
+  {
+    "id": 21,
+    "nome": "Hugo Fernandes",
+    "foto": "https://randomuser.me/api/portraits/men/16.jpg",
+    "cargo": "Analista Financeiro",
+    "resumo": "Experiência com análise financeira e relatórios executivos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Finanças",
+    "habilidadesTecnicas": ["Excel", "Power BI", "SQL"],
+    "softSkills": ["Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "FinGroup",
+        "cargo": "Analista JR",
+        "inicio": "2020-07",
+        "fim": "2024-02",
+        "descricao": "Controle orçamentário e análise de resultados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Economia",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Financeiro",
+        "link": "https://github.com/hugo/financas",
+        "descricao": "Painel com indicadores e comparativos anuais."
+      }
+    ],
+    "certificacoes": ["Excel Advanced"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Mercado Financeiro", "Análise de Investimentos"]
+  },
+
+  {
+    "id": 22,
+    "nome": "Natália Castro",
+    "foto": "https://randomuser.me/api/portraits/women/4.jpg",
+    "cargo": "Cientista Social",
+    "resumo": "Pesquisas sobre comportamento, cultura e sociedade.",
+    "localizacao": "Brasília/DF",
+    "area": "Pesquisa",
+    "habilidadesTecnicas": ["SPSS", "Pesquisa qualitativa", "Entrevistas"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Instituto Brasil",
+        "cargo": "Pesquisadora",
+        "inicio": "2019-09",
+        "fim": "2024-01",
+        "descricao": "Coleta e análise de dados sociais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciências Sociais",
+        "instituicao": "UNB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Mapeamento de Comportamento Jovem",
+        "link": "https://github.com/natalia/social",
+        "descricao": "Projeto de análise comportamental."
+      }
+    ],
+    "certificacoes": ["Pesquisa Qualitativa"],
+    "idiomas": [
+      { "idioma": "Francês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Sociologia", "Comportamento Humano"]
+  },
+
+  {
+    "id": 23,
+    "nome": "André Vasconcelos",
+    "foto": "https://randomuser.me/api/portraits/men/91.jpg",
+    "cargo": "Desenvolvedor Full-Stack",
+    "resumo": "Criação de sistemas completos com foco em escalabilidade.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "MySQL", "Docker"],
+    "softSkills": ["Comunicação", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "InfoTech",
+        "cargo": "Full-Stack JR",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Desenvolvimento e manutenção de sistemas web."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Vendas",
+        "link": "https://github.com/andre/vendas",
+        "descricao": "Sistema completo com login e dashboard."
+      }
+    ],
+    "certificacoes": ["Dev Full-Stack"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["APIs", "Arquitetura Clean"]
+  },
+
+  {
+    "id": 24,
+    "nome": "Larissa Prado",
+    "foto": "https://randomuser.me/api/portraits/women/45.jpg",
+    "cargo": "Analista de RH",
+    "resumo": "Processos seletivos e desenvolvimento humano.",
+    "localizacao": "São Paulo/SP",
+    "area": "RH",
+    "habilidadesTecnicas": ["Entrevistas", "R&S", "Dinâmicas de grupo"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Humanize",
+        "cargo": "Analista JR",
+        "inicio": "2020-03",
+        "fim": "2024-01",
+        "descricao": "Condução de entrevistas e onboarding de colaboradores."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "USCS",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de R&S",
+        "link": "https://github.com/larissa/rs",
+        "descricao": "Material de apoio a entrevistas."
+      }
+    ],
+    "certificacoes": ["Gestão de Pessoas"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Desenvolvimento Humano", "Clima Organizacional"]
+  },
+
+  {
+    "id": 25,
+    "nome": "Henrique Tavares",
+    "foto": "https://randomuser.me/api/portraits/men/50.jpg",
+    "cargo": "Designer Gráfico",
+    "resumo": "Branding e identidade visual para marcas.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Illustrator", "Photoshop", "Figma"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DesignLab",
+        "cargo": "Designer",
+        "inicio": "2019-04",
+        "fim": "2024-02",
+        "descricao": "Criação de identidades visuais e layouts."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "Senac",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Marca EcoLife",
+        "link": "https://github.com/henrique/marca",
+        "descricao": "Identidade visual completa para empresa sustentável."
+      }
+    ],
+    "certificacoes": ["Adobe Suite"],
+    "idiomas": [
+      { "idioma": "Italiano", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Branding", "Direção de Arte"]
+  },
+
+  {
+    "id": 26,
+    "nome": "Marcela Pinheiro",
+    "foto": "https://randomuser.me/api/portraits/women/62.jpg",
+    "cargo": "Consultora de Vendas",
+    "resumo": "Experiência em negociações e relacionamento com clientes.",
+    "localizacao": "São Paulo/SP",
+    "area": "Comercial",
+    "habilidadesTecnicas": ["CRM", "Negociação"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "ComercialTech",
+        "cargo": "Consultora",
+        "inicio": "2020-06",
+        "fim": "2024-02",
+        "descricao": "Atendimento consultivo e gestão de carteira."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UNIP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline de Vendas",
+        "link": "https://github.com/marcela/pipeline",
+        "descricao": "Estruturação de pipeline usando CRM."
+      }
+    ],
+    "certificacoes": ["Vendas Consultivas"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Vendas", "Relacionamento"]
+  },
+
+  {
+    "id": 27,
+    "nome": "Felipe Araújo",
+    "foto": "https://randomuser.me/api/portraits/men/48.jpg",
+    "cargo": "Dev Front-End",
+    "resumo": "Apaixonado por interfaces e animações.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "React"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "FrontLab",
+        "cargo": "Front-End JR",
+        "inicio": "2021-01",
+        "fim": "2024-02",
+        "descricao": "Desenvolvimento de interfaces modernas e responsivas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FATEC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portfólio Interativo",
+        "link": "https://github.com/felipe/portfolio",
+        "descricao": "Site pessoal com animações microinterativas."
+      }
+    ],
+    "certificacoes": ["Web Design"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["UI", "Animações Web"]
+  },
+
+  {
+    "id": 28,
+    "nome": "Amanda Lopes",
+    "foto": "https://randomuser.me/api/portraits/women/12.jpg",
+    "cargo": "Analista de Testes",
+    "resumo": "Garantindo qualidade e estabilidade em sistemas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Testes manuais", "Selenium", "Cypress"],
+    "softSkills": ["Detalhismo", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "QA Solutions",
+        "cargo": "QA JR",
+        "inicio": "2021-05",
+        "fim": "2024-02",
+        "descricao": "Execução de testes e automação de cenários."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "ETEC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Suite de Testes",
+        "link": "https://github.com/amanda/tests",
+        "descricao": "Automação de testes usando Cypress."
+      }
+    ],
+    "certificacoes": ["ISTQB"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["QA", "Automação"]
+  },
+
+  {
+    "id": 29,
+    "nome": "Eduardo Nunes",
+    "foto": "https://randomuser.me/api/portraits/men/80.jpg",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Especialista em análise de requisitos e modelagem.",
+    "localizacao": "Campinas/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["UML", "SQL", "Documentação"],
+    "softSkills": ["Comunicação", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "SoftPlus",
+        "cargo": "Analista",
+        "inicio": "2020-10",
+        "fim": "2024-02",
+        "descricao": "Mapeamento de requisitos e interação com stakeholders."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "PUC-Campinas",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Documentação Completa",
+        "link": "https://github.com/eduardo/docs",
+        "descricao": "Projeto de documentação e análise de requisitos."
+      }
+    ],
+    "certificacoes": ["BPMN"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Modelagem", "Análise de Sistemas"]
+  },
+
+  {
+    "id": 30,
+    "nome": "Patrícia Moreira",
+    "foto": "https://randomuser.me/api/portraits/women/26.jpg",
+    "cargo": "Gestora de Projetos",
+    "resumo": "Experiência com gestão de equipes e metodologias ágeis.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Jira"],
+    "softSkills": ["Liderança", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ProManage",
+        "cargo": "GP",
+        "inicio": "2020-03",
+        "fim": "2024-02",
+        "descricao": "Gestão de equipes e entregas em projetos ágeis."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FGV",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Transformação Digital",
+        "link": "https://github.com/patricia/digital",
+        "descricao": "Projeto de implementação de metodologias ágeis."
+      }
+    ],
+    "certificacoes": ["Scrum Master"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Agilidade", "PMO"]
+  },
+
+  {
+    "id": 31,
+    "nome": "João Pedro Macedo",
+    "foto": "https://randomuser.me/api/portraits/men/8.jpg",
+    "cargo": "Técnico em Redes",
+    "resumo": "Configuração e suporte em infraestrutura de redes.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Redes", "Cisco", "Firewall"],
+    "softSkills": ["Resolução de problemas", "Atenção a detalhes"],
+    "experiencias": [
+      {
+        "empresa": "NetGroup",
+        "cargo": "Técnico de Redes",
+        "inicio": "2021-03",
+        "fim": "2024-02",
+        "descricao": "Instalação e manutenção de redes corporativas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "SENAI",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Configuração de Firewall",
+        "link": "https://github.com/joao/firewall",
+        "descricao": "Configuração de segurança de rede corporativa."
+      }
+    ],
+    "certificacoes": ["Cisco CCNA"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Segurança", "Infraestrutura"]
+  },
+
+  {
+    "id": 32,
+    "nome": "Carolina Reis",
+    "foto": "https://randomuser.me/api/portraits/women/13.jpg",
+    "cargo": "Nutricionista",
+    "resumo": "Atendimento clínico com foco em saúde preventiva.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Avaliação nutricional", "Planejamento alimentar"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "VidaSaudável",
+        "cargo": "Nutricionista",
+        "inicio": "2020-01",
+        "fim": "2024-02",
+        "descricao": "Atendimento clínico e acompanhamento de pacientes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Nutrição",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia Alimentar",
+        "link": "https://github.com/carol/nutricao",
+        "descricao": "Material completo para educação alimentar."
+      }
+    ],
+    "certificacoes": ["Fitoterapia"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Saúde Preventiva", "Fitness"]
+  },
+
+  {
+    "id": 33,
+    "nome": "Rogério Fonseca",
+    "foto": "https://randomuser.me/api/portraits/men/66.jpg",
+    "cargo": "Engenheiro Mecânico",
+    "resumo": "Experiência com manutenção e projetos mecânicos.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Engenharia",
+    "habilidadesTecnicas": ["SolidWorks", "CAD"],
+    "softSkills": ["Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "Mecânica Rio",
+        "cargo": "Engenheiro",
+        "inicio": "2020-03",
+        "fim": "2024-01",
+        "descricao": "Projetos mecânicos e acompanhamento de produção."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Mecânica",
+        "instituicao": "UFRJ",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Industrial",
+        "link": "https://github.com/rogerio/mecanica",
+        "descricao": "Desenvolvimento de máquina industrial."
+      }
+    ],
+    "certificacoes": ["SolidWorks Professional"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Indústria", "Prototipagem"]
+  },
+
+  {
+    "id": 34,
+    "nome": "Elaine Rocha",
+    "foto": "https://randomuser.me/api/portraits/women/34.jpg",
+    "cargo": "Professora de Inglês",
+    "resumo": "Ensino comunicativo e foco em fluência.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": ["Metodologias ativas", "Aulas online"],
+    "softSkills": ["Comunicação", "Didática"],
+    "experiencias": [
+      {
+        "empresa": "WiseUP",
+        "cargo": "Teacher",
+        "inicio": "2019-04",
+        "fim": "2024-02",
+        "descricao": "Aulas práticas e personalizadas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Letras",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Vocabulário",
+        "link": "https://github.com/elaine/ingles",
+        "descricao": "Sistema de exercícios e flashcards."
+      }
+    ],
+    "certificacoes": ["TESOL"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Educação Digital", "Metodologias"]
+  },
+
+  {
+    "id": 35,
+    "nome": "Marcus Teixeira",
+    "foto": "https://randomuser.me/api/portraits/men/13.jpg",
+    "cargo": "Cientista da Computação",
+    "resumo": "Atuação com sistemas inteligentes e IA.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": ["Python", "Deep Learning", "Java"],
+    "softSkills": ["Resolução de problemas", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "AI Lab",
+        "cargo": "Pesquisador",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Projetos em visão computacional e NLP."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFABC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Rede Neural",
+        "link": "https://github.com/marcus/rede",
+        "descricao": "Modelo de classificação de imagens."
+      }
+    ],
+    "certificacoes": ["DeepLearning.AI"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["IA", "Pesquisa"]
+  },
+
+  {
+    "id": 36,
+    "nome": "Viviane Neves",
+    "foto": "https://randomuser.me/api/portraits/women/30.jpg",
+    "cargo": "Assistente Jurídica",
+    "resumo": "Atuação em processos administrativos e jurídicos.",
+    "localizacao": "Recife/PE",
+    "area": "Direito",
+    "habilidadesTecnicas": ["Processo civil", "Documentação jurídica"],
+    "softSkills": ["Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Advocacia Rocha",
+        "cargo": "Assistente",
+        "inicio": "2020-01",
+        "fim": "2024-01",
+        "descricao": "Apoio na elaboração de peças e processos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Direito",
+        "instituicao": "UFPE",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Gerenciador de Processos",
+        "link": "https://github.com/viviane/processos",
+        "descricao": "Sistema simples para organização de processos."
+      }
+    ],
+    "certificacoes": ["LGPD Básico"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Compliance", "Direito Civil"]
+  },
+
+  {
+    "id": 37,
+    "nome": "Alexandre Correa",
+    "foto": "https://randomuser.me/api/portraits/men/3.jpg",
+    "cargo": "Administrador de Banco de Dados",
+    "resumo": "Gestão e otimização de bancos relacionais e não relacionais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL Server", "MySQL", "MongoDB"],
+    "softSkills": ["Pensamento crítico", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "DataCenter",
+        "cargo": "DBA",
+        "inicio": "2020-03",
+        "fim": "2024-02",
+        "descricao": "Administração e manutenção de bancos de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização SQL",
+        "link": "https://github.com/alex/sql",
+        "descricao": "Scripts otimizados para grandes bases."
+      }
+    ],
+    "certificacoes": ["Oracle SQL"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Big Data", "Performance"]
+  },
+
+  {
+    "id": 38,
+    "nome": "Helena Santos",
+    "foto": "https://randomuser.me/api/portraits/women/41.jpg",
+    "cargo": "Engenheira de Produção",
+    "resumo": "Análise de processos e otimização contínua.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia",
+    "habilidadesTecnicas": ["Lean", "Six Sigma", "Kanban"],
+    "softSkills": ["Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Prodin",
+        "cargo": "Engenheira",
+        "inicio": "2020-08",
+        "fim": "2024-02",
+        "descricao": "Melhorias de processos industriais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Produção",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização Industrial",
+        "link": "https://github.com/helena/producao",
+        "descricao": "Projeto de eficiência de linha."
+      }
+    ],
+    "certificacoes": ["Lean Six Sigma"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Indústria", "Lean"]
+  },
+
+  {
+    "id": 39,
+    "nome": "Carlos Fagundes",
+    "foto": "https://randomuser.me/api/portraits/men/52.jpg",
+    "cargo": "Gestor de Tráfego",
+    "resumo": "Otimização de campanhas digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Meta Ads", "Google Ads", "Analytics"],
+    "softSkills": ["Comunicação", "Raciocínio lógico"],
+    "experiencias": [
+      {
+        "empresa": "AdBoost",
+        "cargo": "Gestor",
+        "inicio": "2020-04",
+        "fim": "2024-02",
+        "descricao": "Criação e otimização de campanhas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "Anhembi",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha 10x ROI",
+        "link": "https://github.com/carlos/ads",
+        "descricao": "Otimização de campanhas com alto retorno."
+      }
+    ],
+    "certificacoes": ["Google Ads Certification"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Marketing Digital", "Analytics"]
+  },
+
+  {
+    "id": 40,
+    "nome": "Daniela Silva",
+    "foto": "https://randomuser.me/api/portraits/women/11.jpg",
+    "cargo": "Especialista em LGPD",
+    "resumo": "Consultoria em proteção de dados e segurança digital.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["LGPD", "Segurança da informação"],
+    "softSkills": ["Comunicação", "Atenção a detalhes"],
+    "experiencias": [
+      {
+        "empresa": "SafeData",
+        "cargo": "Consultora",
+        "inicio": "2020-05",
+        "fim": "2024-02",
+        "descricao": "Consultoria e auditoria em privacidade de dados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Direito Digital",
+        "instituicao": "PUC-SP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Política de Privacidade",
+        "link": "https://github.com/dani/lgpd",
+        "descricao": "Documentação completa para empresas."
+      }
+    ],
+    "certificacoes": ["DPO"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Privacidade", "Cybersegurança"]
+  },
+
+  {
+    "id": 41,
+    "nome": "Felipe Moura",
+    "foto": "https://randomuser.me/api/portraits/men/27.jpg",
+    "cargo": "Produtor Audiovisual",
+    "resumo": "Produção e edição de vídeos profissionais.",
+    "localizacao": "São Paulo/SP",
+    "area": "Audiovisual",
+    "habilidadesTecnicas": ["Premiere", "After Effects", "Filmagem"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "StudioFilm",
+        "cargo": "Produtor",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Produção e edição de vídeos institucionais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Cinema",
+        "instituicao": "FAAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Vídeo Documental",
+        "link": "https://github.com/felipe/filme",
+        "descricao": "Documentário produzido para ONG."
+      }
+    ],
+    "certificacoes": ["Adobe Video"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Edição de Vídeo", "Roteiro"]
+  },
+
+  {
+    "id": 42,
+    "nome": "Tatiane Souza",
+    "foto": "https://randomuser.me/api/portraits/women/9.jpg",
+    "cargo": "Desenvolvedora de Jogos",
+    "resumo": "Criação de jogos 2D e 3D.",
+    "localizacao": "São Paulo/SP",
+    "area": "Games",
+    "habilidadesTecnicas": ["Unity", "C#", "Blender"],
+    "softSkills": ["Criatividade", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "GameLab",
+        "cargo": "Game Dev",
+        "inicio": "2021-01",
+        "fim": "2024-02",
+        "descricao": "Desenvolvimento de jogos educativos."
+      }
+    ],
+    "formacao": [
+      {
+        "course": "Jogos Digitais",
+        "instituicao": "Anhembi Morumbi",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Game 3D",
+        "link": "https://github.com/tati/game",
+        "descricao": "Jogo 3D com mecânicas completas."
+      }
+    ],
+    "certificacoes": ["Unity Associate"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Game Design", "Programação"]
+  },
+
+  {
+    "id": 43,
+    "nome": "Márcio Leal",
+    "foto": "https://randomuser.me/api/portraits/men/32.jpg",
+    "cargo": "Consultor de TI",
+    "resumo": "Infraestrutura e consultoria tecnológica.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["Servidores", "Redes", "Firewall"],
+    "softSkills": ["Comunicação", "Atenção a detalhes"],
+    "experiencias": [
+      {
+        "empresa": "TechPro",
+        "cargo": "Consultor SR",
+        "inicio": "2018-04",
+        "fim": "2024-02",
+        "descricao": "Consultoria em infraestrutura e segurança."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "USJT",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infra Segura",
+        "link": "https://github.com/marcio/infra",
+        "descricao": "Projeto completo de redes seguras."
+      }
+    ],
+    "certificacoes": ["ITIL"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Segurança", "Infraestrutura"]
+  },
+
+  {
+    "id": 44,
+    "nome": "Julio Batista",
+    "foto": "https://randomuser.me/api/portraits/men/19.jpg",
+    "cargo": "Fotógrafo",
+    "resumo": "Fotografia de eventos e produtos.",
+    "localizacao": "São Paulo/SP",
+    "area": "Fotografia",
+    "habilidadesTecnicas": ["Lightroom", "Photoshop", "Estúdio"],
+    "softSkills": ["Criatividade", "Paciência"],
+    "experiencias": [
+      {
+        "empresa": "FotoPlus",
+        "cargo": "Fotógrafo",
+        "inicio": "2019-09",
+        "fim": "2024-02",
+        "descricao": "Fotografia profissional em estúdio e externa."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Fotografia",
+        "instituicao": "SENAC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Book Profissional",
+        "link": "https://github.com/julio/fotos",
+        "descricao": "Ensaios profissionais variados."
+      }
+    ],
+    "certificacoes": ["Adobe Lightroom"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Retratos", "Produtos"]
+  },
+
+  {
+    "id": 45,
+    "nome": "Marina Carvalho",
+    "foto": "https://randomuser.me/api/portraits/women/17.jpg",
+    "cargo": "Social Media",
+    "resumo": "Gestão de conteúdo e identidade digital.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Copywriting", "Instagram", "TikTok"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "LikeMe",
+        "cargo": "Social Media",
+        "inicio": "2021-02",
+        "fim": "2024-02",
+        "descricao": "Gestão e produção de conteúdo para marcas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Comunicação Social",
+        "instituicao": "PUC-SP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Branding Social",
+        "link": "https://github.com/marina/social",
+        "descricao": "Criação de identidade digital para negócios."
+      }
+    ],
+    "certificacoes": ["Copy Pro"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Marketing", "Branding"]
+  },
+
+  {
+    "id": 46,
+    "nome": "Pedro Alves",
+    "foto": "https://randomuser.me/api/portraits/men/7.jpg",
+    "cargo": "Motorista Profissional",
+    "resumo": "Experiência em transporte particular e executivo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Transporte",
+    "habilidadesTecnicas": ["Direção defensiva", "Rotas urbanas"],
+    "softSkills": ["Pontualidade", "Cordialidade"],
+    "experiencias": [
+      {
+        "empresa": "Transporte Vip",
+        "cargo": "Motorista",
+        "inicio": "2018-03",
+        "fim": "2024-02",
+        "descricao": "Transporte de executivos e clientes corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ensino Médio",
+        "instituicao": "Estadual",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Rotas Seguras",
+        "link": "https://github.com/pedro/rotas",
+        "descricao": "Mapeamento de melhores rotas da cidade."
+      }
+    ],
+    "certificacoes": ["Direção Defensiva"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Logística", "Transporte executivo"]
+  },
+
+  {
+    "id": 47,
+    "nome": "Nicole Vasques",
+    "foto": "https://randomuser.me/api/portraits/women/40.jpg",
+    "cargo": "Bióloga",
+    "resumo": "Pesquisas ambientais e biodiversidade.",
+    "localizacao": "Manaus/AM",
+    "area": "Ciência",
+    "habilidadesTecnicas": ["Pesquisa de campo", "Análise laboratorial"],
+    "softSkills": ["Detalhismo", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "Instituto Amazônia",
+        "cargo": "Pesquisadora",
+        "inicio": "2020-01",
+        "fim": "2024-02",
+        "descricao": "Estudos sobre biodiversidade e conservação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Biologia",
+        "instituicao": "UFAM",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Mapa de Espécies",
+        "link": "https://github.com/nicole/bio",
+        "descricao": "Monitoramento de espécies amazônicas."
+      }
+    ],
+    "certificacoes": ["Pesquisa Ambiental"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Conservação", "Pesquisa Científica"]
+  },
+
+  {
+    "id": 48,
+    "nome": "Danilo Rocha",
+    "foto": "https://randomuser.me/api/portraits/men/38.jpg",
+    "cargo": "Músico",
+    "resumo": "Produção musical e performance.",
+    "localizacao": "São Paulo/SP",
+    "area": "Arte",
+    "habilidadesTecnicas": ["Mixagem", "Produção"],
+    "softSkills": ["Criatividade", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Estúdio ÁudioMix",
+        "cargo": "Produtor",
+        "inicio": "2020-02",
+        "fim": "2024-02",
+        "descricao": "Produção e mixagem de faixas musicais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Música",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Álbum Indie",
+        "link": "https://github.com/danilo/musica",
+        "descricao": "Produção de álbum independente."
+      }
+    ],
+    "certificacoes": ["Produtor Musical"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Produção Musical", "Composição"]
+  },
+
+  {
+    "id": 49,
+    "nome": "Renata Fonseca",
+    "foto": "https://randomuser.me/api/portraits/women/36.jpg",
+    "cargo": "Fisioterapeuta",
+    "resumo": "Atuação clínica e reabilitação física.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Reabilitação", "Alongamento"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Clínica Renascer",
+        "cargo": "Fisioterapeuta",
+        "inicio": "2019-08",
+        "fim": "2024-02",
+        "descricao": "Tratamento e reabilitação muscular."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Fisioterapia",
+        "instituicao": "UFBA",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de Reabilitação",
+        "link": "https://github.com/renata/fisio",
+        "descricao": "Rotina de exercícios para reabilitação."
+      }
+    ],
+    "certificacoes": ["Pilates Clínico"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Reabilitação", "Saúde Integrada"]
+  },
+
+  {
+    "id": 50,
+    "nome": "Otávio Guedes",
+    "foto": "https://randomuser.me/api/portraits/men/25.jpg",
+    "cargo": "Barbeiro",
+    "resumo": "Corte masculino e visagismo.",
+    "localizacao": "São Paulo/SP",
+    "area": "Beleza",
+    "habilidadesTecnicas": ["Corte", "Tesoura", "Visagismo"],
+    "softSkills": ["Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "BarberHouse",
+        "cargo": "Barbeiro",
+        "inicio": "2018-05",
+        "fim": "2024-02",
+        "descricao": "Atendimento masculino e visagismo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Barbearia Profissional",
+        "instituicao": "SENAC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estilos Masculinos",
+        "link": "https://github.com/otavio/barber",
+        "descricao": "Catálogo de cortes e tendências."
+      }
+    ],
+    "certificacoes": ["Visagismo"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Estética", "Visagismo"]
+  },
+
+  {
+    "id": 51,
+    "nome": "Evelyn Moreira",
+    "foto": "https://randomuser.me/api/portraits/women/1.jpg",
+    "cargo": "Auxiliar de Escritório",
+    "resumo": "Organização de documentos e atendimento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Administração",
+    "habilidadesTecnicas": ["Office", "Arquivamento"],
+    "softSkills": ["Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "OfficePlus",
+        "cargo": "Auxiliar",
+        "inicio": "2020-01",
+        "fim": "2024-02",
+        "descricao": "Suporte a processos administrativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "ETEC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Organização de Arquivos",
+        "link": "https://github.com/evelyn/arquivos",
+        "descricao": "Projeto de organização e digitalização."
+      }
+    ],
+    "certificacoes": ["Excel"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Administração", "Processos"]
+  },
+
+  {
+    "id": 52,
+    "nome": "Guilherme Rezende",
+    "foto": "https://randomuser.me/api/portraits/men/69.jpg",
+    "cargo": "Economista",
+    "resumo": "Análise econômica e mercado financeiro.",
+    "localizacao": "São Paulo/SP",
+    "area": "Economia",
+    "habilidadesTecnicas": ["Excel", "R", "Power BI"],
+    "softSkills": ["Pensamento crítico", "Análise lógica"],
+    "experiencias": [
+      {
+        "empresa": "EconoLab",
+        "cargo": "Economista",
+        "inicio": "2020-01",
+        "fim": "2024-02",
+        "descricao": "Análises e projeções econômicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Economia",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeção Econômica",
+        "link": "https://github.com/gui/economia",
+        "descricao": "Modelo de projeção macroeconômica."
+      }
+    ],
+    "certificacoes": ["Data Analysis"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Fluente" }
+    ],
+    "areaInteresses": ["Mercado Financeiro", "Investimentos"]
+  },
+
+  {
+    "id": 53,
+    "nome": "Raquel Barros",
+    "foto": "https://randomuser.me/api/portraits/women/42.jpg",
+    "cargo": "Engenheira Ambiental",
+    "resumo": "Projetos de sustentabilidade e impacto ambiental.",
+    "localizacao": "Curitiba/PR",
+    "area": "Sustentabilidade",
+    "habilidadesTecnicas": ["Análise ambiental", "Gestão de resíduos"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "EcoBrasil",
+        "cargo": "Engenheira Ambiental",
+        "inicio": "2021-03",
+        "fim": "2024-02",
+        "descricao": "Projetos para redução de impacto ambiental."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Ambiental",
+        "instituicao": "UFPR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Verde",
+        "link": "https://github.com/raquel/eco",
+        "descricao": "Ações de sustentabilidade."
+      }
+    ],
+    "certificacoes": ["Sustentabilidade"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Sustentabilidade", "Ecologia"]
+  },
+
+  {
+    "id": 54,
+    "nome": "Douglas Batista",
+    "foto": "https://randomuser.me/api/portraits/men/44.jpg",
+    "cargo": "Técnico em Informática",
+    "resumo": "Manutenção e suporte técnico.",
+    "localizacao": "São Paulo/SP",
+    "area": "TI",
+    "habilidadesTecnicas": ["Hardware", "Sistemas Operacionais"],
+    "softSkills": ["Paciência", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "InfoHelp",
+        "cargo": "Técnico",
+        "inicio": "2019-01",
+        "fim": "2024-02",
+        "descricao": "Manutenção de computadores e suporte."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Informática",
+        "instituicao": "SENAI",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de Manutenção",
+        "link": "https://github.com/douglas/manutencao",
+        "descricao": "Guia completo de manutenção."
+      }
+    ],
+    "certificacoes": ["CompTIA A+"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Hardware", "Tecnologia"]
+  },
+
+  {
+    "id": 55,
+    "nome": "Sandra Ribeiro",
+    "foto": "https://randomuser.me/api/portraits/women/29.jpg",
+    "cargo": "Analista Contábil",
+    "resumo": "Lançamentos e relatórios contábeis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Contabilidade",
+    "habilidadesTecnicas": ["Excel", "ERP", "Demonstrações"],
+    "softSkills": ["Organização", "Atenção a detalhes"],
+    "experiencias": [
+      {
+        "empresa": "ContabPlus",
+        "cargo": "Analista",
+        "inicio": "2020-02",
+        "fim": "2024-02",
+        "descricao": "Fechamento mensal e escrituração."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Contabilidade",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Planilha de Fechamento",
+        "link": "https://github.com/sandra/contabil",
+        "descricao": "Ferramenta de apoio contábil."
+      }
+    ],
+    "certificacoes": ["Contabilidade Digital"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Contabilidade Digital", "ERP"]
+  },
+
+  {
+    "id": 56,
+    "nome": "Igor Costa",
+    "foto": "https://randomuser.me/api/portraits/men/53.jpg",
+    "cargo": "Cozinheiro",
+    "resumo": "Experiência em culinária brasileira e internacional.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gastronomia",
+    "habilidadesTecnicas": ["Cortes", "Culinária quente", "Culinária fria"],
+    "softSkills": ["Criatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Restaurante Sabor",
+        "cargo": "Cozinheiro",
+        "inicio": "2019-05",
+        "fim": "2024-02",
+        "descricao": "Preparação de pratos quentes e frios."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Gastronomia",
+        "instituicao": "SENAC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Livro de Receitas",
+        "link": "https://github.com/igor/receitas",
+        "descricao": "Coleção de receitas brasileiras."
+      }
+    ],
+    "certificacoes": ["Culinária Profissional"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Gastronomia", "Criatividade"]
+  },
+
+  {
+    "id": 57,
+    "nome": "Luzia Moretti",
+    "foto": "https://randomuser.me/api/portraits/women/69.jpg",
+    "cargo": "Cabeleireira",
+    "resumo": "Especialista em cortes e coloração.",
+    "localizacao": "São Paulo/SP",
+    "area": "Beleza",
+    "habilidadesTecnicas": ["Colorimetria", "Cortes"],
+    "softSkills": ["Comunicação", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Studio Hair",
+        "cargo": "Cabeleireira",
+        "inicio": "2018-01",
+        "fim": "2024-02",
+        "descricao": "Atendimento completo de beleza."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Cabeleireira Profissional",
+        "instituicao": "SENAC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Coloração Avançada",
+        "link": "https://github.com/luzia/colors",
+        "descricao": "Estudos avançados de coloração."
+      }
+    ],
+    "certificacoes": ["Colorimetria"],
+    "idiomas": [
+      { "idioma": "Espanhol", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Estética", "Beleza"]
+  },
+
+  {
+    "id": 58,
+    "nome": "Antônio Paiva",
+    "foto": "https://randomuser.me/api/portraits/men/62.jpg",
+    "cargo": "Padeiro",
+    "resumo": "Pães artesanais e fermentação natural.",
+    "localizacao": "São Paulo/SP",
+    "area": "Gastronomia",
+    "habilidadesTecnicas": ["Fermentação", "Forno", "Massa"],
+    "softSkills": ["Organização", "Pontualidade"],
+    "experiencias": [
+      {
+        "empresa": "Padaria Aroma",
+        "cargo": "Padeiro",
+        "inicio": "2017-06",
+        "fim": "2024-02",
+        "descricao": "Produção de pães artesanais diariamente."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Panificação",
+        "instituicao": "SENAI",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Livro de Fermentação",
+        "link": "https://github.com/antonio/fermentacao",
+        "descricao": "Receitas avançadas de fermentação natural."
+      }
+    ],
+    "certificacoes": ["Panificação Profissional"],
+    "idiomas": [
+      { "idioma": "Italiano", "nivel": "Básico" }
+    ],
+    "areaInteresses": ["Gastronomia", "Fermentação Natural"]
+  },
+
+  {
+    "id": 59,
+    "nome": "Elena Batista",
+    "foto": "https://randomuser.me/api/portraits/women/52.jpg",
+    "cargo": "Farmacêutica",
+    "resumo": "Atuação em manipulação e atendimento em farmácia.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": ["Manipulação", "Atendimento"],
+    "softSkills": ["Empatia", "Detalhismo"],
+    "experiencias": [
+      {
+        "empresa": "FarmaVida",
+        "cargo": "Farmacêutica",
+        "inicio": "2019-02",
+        "fim": "2024-02",
+        "descricao": "Manipulação e orientação farmacêutica."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Farmácia",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de Uso Correto de Medicamentos",
+        "link": "https://github.com/elena/farmacia",
+        "descricao": "Educação sobre uso de medicamentos."
+      }
+    ],
+    "certificacoes": ["Manipulação Avançada"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areaInteresses": ["Farmácia Clínica", "Saúde Pública"]
+  },
+
+  {
+    "id": 60,
+    "nome": "Maurício Santana",
+    "foto": "https://randomuser.me/api/portraits/men/63.jpg",
+    "cargo": "Engenheiro Elétrico",
+    "resumo": "Projetos elétricos e manutenção industrial.",
+    "localizacao": "São Paulo/SP",
+    "area": "Engenharia",
+    "habilidadesTecnicas": ["AutoCAD", "Projetos elétricos"],
+    "softSkills": ["Liderança", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "EletricPro",
+        "cargo": "Engenheiro Elétrico",
+        "inicio": "2020-04",
+        "fim": "2024-02",
+        "descricao": "Projetos elétricos industriais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Elétrica",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Industrial",
+        "link": "https://github.com/mauricio/eletrica",
+        "descricao": "Projeto completo de instalações elétricas."
+      }
+    ],
+    "certificacoes": ["NR-10"],
+    "idiomas": [
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areaInteresses": ["Indústria", "Instalações elétricas"]
+  }
+
+
+]

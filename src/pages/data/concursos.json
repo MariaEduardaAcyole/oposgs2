@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "cargo": "Técnico Judiciário",
+    "orgao": "TRF 3ª Região",
+    "nivel": "Médio",
+    "salario": "R$ 9.300,00",
+    "localizacao": "São Paulo, SP"
+  },
+  {
+    "id": 102,
+    "cargo": "Analista do INSS",
+    "orgao": "INSS",
+    "nivel": "Superior",
+    "salario": "R$ 8.200,00",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": 103,
+    "cargo": "Agente da Polícia Federal",
+    "orgao": "PF",
+    "nivel": "Superior",
+    "salario": "R$ 12.500,00",
+    "localizacao": "Brasil"
+  }
+]
