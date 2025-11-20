@@ -1,3 +1,7 @@
+import { useEffect } from "react";
+import { useRouter } from "next/router";
+import { getSession } from "../lib/auth";
+
 import {
   LuSearch,
   LuArrowRight,
@@ -10,6 +14,16 @@ import vagasData from "./data/vagas.json";
 import CarrosselEventos from "../components/CarrosselEventos";
 
 export default function Home() {
+  const router = useRouter();
+
+  // 🔒 Proteção da rota HOME
+  useEffect(() => {
+    const session = getSession();
+    if (!session || !session.user?.email) {
+      router.replace("/login");
+    }
+  }, [router]);
+
   const vagasRecomendadas = vagasData.filter((v) => v.recomendado).slice(0, 4);
   const ultimosEventos = eventosData.slice(0, 8);
 
