@@ -10,7 +10,7 @@ export function login(email, senha) {
     return { ok: false, message: "Credenciais inválidas" };
   }
 
-  // garantir que salvou ANTES do redirect
+  // teste se salvou ANTES do redirect
   try {
     localStorage.setItem("session", JSON.stringify(user));
   } catch (err) {

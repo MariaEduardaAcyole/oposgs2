@@ -1,4 +1,3 @@
-// exemplo bem simples dentro de src/pages/profile.jsx
 import { useEffect } from "react";
 import { useRouter } from "next/router";
 import { getSession } from "../lib/auth";

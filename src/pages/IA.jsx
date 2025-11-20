@@ -40,9 +40,7 @@ export default function IaPage() {
   const [chat, setChat] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  // -----------------------------
-  // 🔥 Simulação de resposta da IA
-  // -----------------------------
+  // Simulação de resposta da IA
   const responderIA = (texto) => {
     setLoading(true);
 
@@ -52,16 +50,14 @@ export default function IaPage() {
         {
           autor: "ia",
           texto,
-          avatar: "/avatar-ia.png", // 🔥 IMAGEM DA IA (coloque na pasta public)
+          avatar: "/avatar-ia.png", 
         },
       ]);
       setLoading(false);
     }, 1200);
   };
 
-  // -----------------------------
-  // ✉️ Enviar mensagem manual
-  // -----------------------------
+  // Enviar mensagem manual
   const enviarMensagem = () => {
     if (!mensagem.trim()) return;
 
@@ -78,9 +74,7 @@ export default function IaPage() {
     responderIA("Claro! Já estou analisando e te envio uma resposta personalizada.");
   };
 
-  // -----------------------------
-  // 🧠 Funções da sidebar
-  // -----------------------------
+  // Funções da sidebar
   const analisarCurriculo = () => {
     responderIA(
       "📄 Analisei seu currículo! Seus pontos fortes são comunicação, HTML, CSS, React e boa capacidade de resolver problemas."

@@ -16,7 +16,7 @@ import CarrosselEventos from "../components/CarrosselEventos";
 export default function Home() {
   const router = useRouter();
 
-  // 🔒 Proteção da rota HOME
+  // Proteção da rota HOME
 useEffect(() => {
   const session = getSession();
 
