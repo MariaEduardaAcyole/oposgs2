@@ -1,5 +1,5 @@
 // src/lib/auth.js
-import { users } from "../data/users";
+import { users } from "./../pages/data/users";
 
 export function login(email, senha) {
   const user = users.find(

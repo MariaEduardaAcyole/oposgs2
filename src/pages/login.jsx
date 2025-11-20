@@ -7,17 +7,21 @@ export default function Login() {
   const [erro, setErro] = useState("");
 
   const handleLogin = (e) => {
-    e.preventDefault();
+  e.preventDefault();
 
-    const result = login(email, senha);
+  const result = login(email, senha);
 
-    if (!result.ok) {
-      setErro(result.message);
-      return;
-    }
+  if (!result.ok) {
+    setErro(result.message);
+    return;
+  }
 
+  // ESPERAR a sessão gravar antes de ir
+  setTimeout(() => {
     window.location.href = "/";
-  };
+  }, 200);
+};
+
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white">

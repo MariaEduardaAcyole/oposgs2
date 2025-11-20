@@ -17,12 +17,15 @@ export default function Home() {
   const router = useRouter();
 
   // 🔒 Proteção da rota HOME
-  useEffect(() => {
-    const session = getSession();
-    if (!session || !session.user?.email) {
-      router.replace("/login");
-    }
-  }, [router]);
+useEffect(() => {
+  const session = getSession();
+
+  if (session === null) {
+    console.log("Sem sessão — indo para login");
+    window.location.href = "/login";
+  }
+}, []);
+
 
   const vagasRecomendadas = vagasData.filter((v) => v.recomendado).slice(0, 4);
   const ultimosEventos = eventosData.slice(0, 8);
