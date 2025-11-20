@@ -1,3 +1,4 @@
+//card da vaga com todos os detalhes da vaga
 import { LuBuilding2, LuMapPin, LuTag, LuArrowRight } from "react-icons/lu";
 
 export default function CardVaga({ vaga, onApply }) {

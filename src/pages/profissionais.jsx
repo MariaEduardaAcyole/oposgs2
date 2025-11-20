@@ -27,7 +27,7 @@ export default function Profissionais() {
   };
 
   return (
-    <div className="min-h-screen p-8 bg-gradient-to-b from-gray-900 to-black text-white">
+<div className="min-h-screen bg-[var(--bg)] text-[var(--text)] p-10">
 
       <h1 className="text-4xl font-bold mb-6">Profissionais</h1>
 

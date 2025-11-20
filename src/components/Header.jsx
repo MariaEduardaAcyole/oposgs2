@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Menu, X, Home, Users, Briefcase, Calendar } from "lucide-react";
 import { MessageSquareCode } from "lucide-react";
+import ThemeToggle from "../components/ThemeToggle";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -42,6 +43,9 @@ export default function Header() {
           >
             <MessageSquareCode size={18} /> IArin
           </a>
+
+          <ThemeToggle />
+
         </nav>
 
         {/* BOTÃO MOBILE */}

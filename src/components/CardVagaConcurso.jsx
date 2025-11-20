@@ -1,3 +1,4 @@
+//card da vaga com todos os detalhes de concurso
 import { LuBuilding2, LuMapPin, LuTag, LuArrowRight } from "react-icons/lu";
 import { LuDollarSign } from "react-icons/lu";
 

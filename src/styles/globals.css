@@ -27,3 +27,79 @@ body {
 html, body{
     width:100vw;
 }
+/* 🌊 Ondas animadas futuristas */
+.wave {
+  position: absolute;
+  left: 50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at 50% 80%, #3b82f680, transparent 60%);
+  animation: waveMove 8s infinite ease-in-out;
+  opacity: 0.4;
+  transform: translateX(-50%);
+  filter: blur(60px);
+}
+
+.wave1 {
+  animation-duration: 12s;
+  animation-delay: 0s;
+}
+.wave2 {
+  animation-duration: 14s;
+  animation-delay: -3s;
+}
+.wave3 {
+  animation-duration: 16s;
+  animation-delay: -6s;
+}
+
+@keyframes waveMove {
+  0% {
+    transform: translateX(-50%) translateY(0px);
+  }
+  50% {
+    transform: translateX(-48%) translateY(-40px);
+  }
+  100% {
+    transform: translateX(-50%) translateY(0px);
+  }
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Light mode */
+  --bg: #ffffff;
+  --bg-soft: #f5f5f7;
+  --card: #f0f0f3;
+  --text: #0f0f0f;
+  --text-soft: #4b4b4b;
+  --border: #dcdcdc;
+}
+
+:root.dark {
+  /* Dark mode */
+  --bg: #0b0b0d;
+  --bg-soft: #111114;
+  --card: #16161c;
+  --text: #fafafa;
+  --text-soft: #9a9a9a;
+  --border: #2a2a33;
+}
+
+/* Classes utilitárias globais */
+body {
+  background: var(--bg);
+  color: var(--text);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+}
+
+.soft {
+  background: var(--bg-soft);
+}

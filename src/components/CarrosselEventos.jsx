@@ -1,3 +1,4 @@
+// carrossel de eventos 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper/modules";
 

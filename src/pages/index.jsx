@@ -31,7 +31,7 @@ useEffect(() => {
   const ultimosEventos = eventosData.slice(0, 8);
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-gray-950 to-black text-white p-10">
+<div className="min-h-screen bg-[var(--bg)] text-[var(--text)] p-10">
       {/* HERO */}
       <section className="max-w-5xl mx-auto text-center mt-10">
         <h1 className="text-5xl font-extrabold leading-tight">
