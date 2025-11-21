@@ -75,7 +75,7 @@ Erros aparecem caso o login não esteja correto.
 
 ## ✔️ 1. Clonar o repositório
 ```bash
-git clone https://github.com/MariaEduardaAcyole/Opos---GS2
+git clone https://github.com/MariaEduardaAcyole/oposgs2
 cd Opos---GS2
 npm install
 npm install swiper
