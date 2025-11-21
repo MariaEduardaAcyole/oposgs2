@@ -4,11 +4,11 @@ import concursosData from "../data/concursos.json";
 import eventosData from "../data/eventos.json";
 import CardVaga from "../components/CardVaga";
 import CardVagaConcurso from "../components/CardVagaConcurso";
-
+//deploy
 import CarrosselEventos from "../components/CarrosselEventos";
 import PopupApply from "../components/PopupApply";
 
-export default function Vagas() {
+export default function vagas() {
   const [busca, setBusca] = useState("");
   const [filtroArea, setFiltroArea] = useState("");
   const [filtroCidade, setFiltroCidade] = useState("");
