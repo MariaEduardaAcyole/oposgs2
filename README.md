@@ -100,8 +100,3 @@ https://github.com/MariaEduardaAcyole/vercel-oposgs2
 Use somente os usuários permitidos listados acima.
 Caso use qualquer outro, o sistema mostra erro e impede acesso.
 
-# video
-
-<video src="./video.mp4" width="600" controls>
-  Seu navegador não suporta a reprodução de vídeos.
-</video>
